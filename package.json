@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Arinola23/DevPortfolio#readme",
+  "bugs": {
+    "url": "https://github.com/Arinola23/DevPortfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arinola23/DevPortfolio.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d portfolio"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
